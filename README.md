@@ -6,4 +6,4 @@ Breast Cancer Dataset : https://www.kaggle.com/datasets/yasserh/breast-cancer-da
 <img width="485" height="183" alt="Image" src="https://github.com/user-attachments/assets/00b70394-75f8-462b-9267-8417d2533130" />
 
 # Disclaimer
-Most of the function in this project are develop and prepare by professor, which the main goals is to rather understand theory and how each machine learning model perform with real world data.
+Most of the function in this project are developed and prepared by professor, which the main goals is to rather understand theory and how each machine learning model perform with real world data.
